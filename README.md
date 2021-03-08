@@ -1,5 +1,5 @@
 # eventos-personalizados-vue3
-Validación de eventos personalizados con Vue haciendo uso de 'emits'
+Validación de eventos personalizados con Vue 3 haciendo uso de 'emits'
 
 
 ## Project setup
