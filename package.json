@@ -1,0 +1,19 @@
+{
+  "name": "eventos-personalizados-v3",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "eslint": "^7.21.0",
+    "eslint-plugin-vue": "^7.7.0",
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.0.5"
+  }
+}
